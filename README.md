@@ -52,3 +52,5 @@ This script transfers tokens from the contract to a specified address. It reads 
 
 - Ensure your private key is kept secure.
 - The `transfer.js` script is set to transfer tokens to the address `0x00b4eb570FB19b30217C9884F31C736858C12208` with an amount of `1 * 10 ** 18` tokens. Modify these values as needed.
+
+Huge thanks to [Dante](https://github.com/dante4rt) 
